@@ -39,7 +39,7 @@ Unofficial firmware improvements for the FNIRSI 2D15P oscilloscope, multimeter, 
 
 ## Download
 
-**MOD v1.0.0.0** — first public release in preparation.
+**MOD v1.0.0.0** — Latest release.
 
 Download the verified firmware and read its release notes on the [Releases page](../../releases). 
 
